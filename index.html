@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>JavaScript Events Demo</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+
+  <h1>JavaScript Events Demo</h1>
+
+  <!-- Event Bubbling & Capturing -->
+  <div id="parent" class="box">
+    Parent Div
+    <button id="child" class="btn">Click Child</button>
+  </div>
+
+  <!-- Event Object -->
+  <input type="text" id="textInput" placeholder="Type something..." />
+
+  <!-- DOM Level 0 Event -->
+  <button id="dom0Btn" class="btn">DOM Level 0 Button</button>
+
+  <!-- addEventListener -->
+  <button id="addBtn" class="btn">Click Me (addEventListener)</button>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
