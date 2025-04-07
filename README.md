@@ -19,5 +19,8 @@ This is a clean and simple demo project to showcase different types of JavaScrip
 - CSS
 - JavaScript 
 
+## 🔗 Live Demo
+👉 [View Demo on GitHub Pages](https://Sodlex4.github.io/js-events-demo)
+
 ## 🧑‍💻 Author
 Made with 💙 by [Stephen Odonde (Trainwithsteve)](https://github.com/Sodlex4)
