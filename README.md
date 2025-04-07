@@ -11,8 +11,8 @@ This is a clean and simple demo project to showcase different types of JavaScrip
 ✅ Event Bubbling & Capturing  
 ✅ Keyboard & Mouse Events  
 
-## 📸 Screenshot
-![screenshot](screenshot.png)
+
+
 
 ## 🧠 Technologies
 - HTML
